@@ -1,0 +1,15 @@
+[
+  "event OwnershipTransferred(address indexed previousOwner, address indexed newOwner)",
+  "function ERC20Address() view returns (address)",
+  "function addressesContributed(uint256) view returns (address)",
+  "function amountContributedByAddress(address) view returns (uint256)",
+  "function currentPhase() view returns (uint8)",
+  "function movePhaseForward()",
+  "function owner() view returns (address)",
+  "function purchaseSpaceCoin() payable",
+  "function renounceOwnership()",
+  "function totalContributions() view returns (uint256)",
+  "function transferOwnership(address newOwner)",
+  "function updateWhitelist(address[] _addresses, bool _bool)",
+  "function whitelist(address) view returns (bool)"
+]
